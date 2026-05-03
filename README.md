@@ -11,6 +11,7 @@
 </p>
 
 
+<div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-5C3EE8?logo=opencv)](https://opencv.org/)
@@ -18,6 +19,8 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.56%2B-FF4B4B?logo=streamlit)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![uv](https://img.shields.io/badge/uv-astral-purple)](https://docs.astral.sh/uv/)
+
+</div>
 
 A production-ready Automatic Number Plate Recognition pipeline built with Python, OpenCV, and Tesseract OCR. Features a modular architecture with contour-based plate detection, robust OCR extraction, and an interactive Streamlit web interface.
 
